@@ -4,7 +4,8 @@ dbMock = [
     'dog.com',
     'hello.com',
     'batman.com',
-    'spider-man.com'
+    'spider-man.com',
+    'test.com'
 ];
 
 describe('googleSearch', () => {
